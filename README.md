@@ -1,5 +1,6 @@
 # Recursive Cheese
-![Cheese](https://user-images.githubusercontent.com/77944679/189460289-dccafdb3-e027-423e-81c9-625836558c93.png)
+
+<img width="608" alt="Screen Shot 2022-09-09 at 1 45 39 AM" src="https://user-images.githubusercontent.com/77944679/189460315-56c2e5d9-069b-4a52-afd6-f5737350b75a.png">
 
 This script demonstrates the memory limitations of object-oriented recursion. This script can be used for educational purposes. After the function is done calling itself, a new block of cheese is generated at the end of each function call!
 
